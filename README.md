@@ -7,9 +7,9 @@ Inspiration came from my love of pot roast & safeways friendly website & [realpy
 ### Objectives
 - learn github better & get a handle on basic development flow  
 - create a project demonstrating my skills/comphrension of python w/ a simple & somewhat novel & orignal idea
-- demonstrate my comprehension in HTML & python//urllib
+- demonstrate my comprehension in HTML & python//urllib & linux
 
 ### Future improvements / goals
 - [ ] Create concept script
 - [ ] Make it automatically run on my RPI 4B at home & email me a report daily & track how that goes here in a writeup
-- [ ] Create GUI??
+- [ ] Create Web GUI
