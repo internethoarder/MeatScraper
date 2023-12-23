@@ -1,5 +1,5 @@
-# Roast-Scraper
-A project to scrape the roasts displayed on safeway's public website to track prices as i am a roast fanatic.
+# meatscraper
+A project to scrape the meats displayed on safeway's public website to track prices as i am a roast fanatic.
 
 Inspiration came from my love of pot roast & safeways friendly website & [realpython.com's "A Practical Introduction to Web Scraping in Python"](https://realpython.com/python-web-scraping-practical-introduction/)
 
