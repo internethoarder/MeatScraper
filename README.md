@@ -10,6 +10,6 @@ Inspiration came from my love of pot roast & safeways friendly website & [realpy
 - demonstrate my comprehension in HTML & python//urllib
 
 ### Future improvements / goals
-[ ] Create concept script
-[ ] Make it automatically run on my RPI 4B at home & email me a report daily & track how that goes here in a writeup
-[ ] Create GUI??
+- [ ] Create concept script
+- [ ] Make it automatically run on my RPI 4B at home & email me a report daily & track how that goes here in a writeup
+- [ ] Create GUI??
