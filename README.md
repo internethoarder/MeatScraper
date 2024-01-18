@@ -1,13 +1,13 @@
 # meatscraper
-A project to scrape the meats displayed on safeway's public website to track prices as i am a roast fanatic.
+A project to scrape the meats displayed on random ranch public website to track prices of beef products 
 
-Inspiration came from my love of pot roast & safeways friendly website & [realpython.com's "A Practical Introduction to Web Scraping in Python"](https://realpython.com/python-web-scraping-practical-introduction/)
 
 
 ### Objectives
 - learn github better & get a handle on basic development flow  
 - create a project demonstrating my skills/comphrension of python w/ a simple & somewhat novel & orignal idea
 - demonstrate my comprehension in HTML & python//urllib & linux
+- learn the python beatifulsoup lib & html parsing
 
 ### Future improvements / goals
 - [x] Create concept script
